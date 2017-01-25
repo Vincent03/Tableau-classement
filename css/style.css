@@ -1,0 +1,74 @@
+#cadre {
+	border-style: solid #A52A2A;
+	height: 55px;
+	background-color: #A52A2A;
+	border-radius: 3px;
+
+
+}
+
+.container {
+	
+	
+
+}
+
+#photo2 {
+
+}
+
+a {
+	color: black;
+	margin-left: 20px;
+	background-color: 
+
+}
+
+#Accueil {
+	color: green;
+}
+
+h1 {
+	text-align: center;
+	color: #A52A2A;
+	font-size: 25px;
+	margin-top: 75px;
+}
+
+#image {
+	margin-top: -50px;
+	margin-left: 1200px;
+}
+
+#img1 { margin-right: 130px;
+
+}
+
+#img2 {
+	margin-left: -90px; 
+}
+
+
+
+#img3 {
+	margin-left: 780px;
+    margin-top: -210px;
+}
+
+.recherche {
+	border:1px solid black;
+	width: 300px;
+	height: 100px;
+}
+
+.bouton {
+	border:1px solid black;
+	width: 1120px;
+	height: 380px;
+
+}
+
+button {
+color: black;
+
+}
